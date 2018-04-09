@@ -1,0 +1,9 @@
+Window_Base.prototype.standardFontFace = function() {
+    if ($gameSystem.isChinese()) {
+        return 'SimHei, Heiti TC, sans-serif';
+    } else if ($gameSystem.isKorean()) {
+        return 'Dotum, AppleGothic, sans-serif';
+    } else {
+        return 'SimHei';
+    }
+};
