@@ -1,0 +1,75 @@
+<pre><font color="black">◆</font><font color="blue">公共事件：#0001</font>
+<font color="black">◆</font><font color="indigo">文章(S)：</font><font color="gray">速度 2, 不能快进</font>
+<font color="black">：</font><font color="white">文章(S)</font><font color="indigo">：</font><font color="navy">很久很久以前，有一片神奇的大陆。。。</font>
+<font color="black">◆</font><font color="olive">淡出画面</font>
+<font color="black">◆</font><font color="deeppink">改变远景图：Plain</font>
+<font color="black">◆</font><font color="olive">淡入画面</font>
+<font color="black">◆</font><font color="indigo">文章(S)：</font><font color="gray">速度 2</font>
+<font color="black">：</font><font color="white">文章(S)</font><font color="indigo">：</font><font color="navy">人类与精灵、兽人等各个种族和谐安宁地生活在这里。。。</font>
+<font color="black">◆</font><font color="olive">淡出画面</font>
+<font color="black">◆</font><font color="deeppink">改变远景图：Castle</font>
+<font color="black">◆</font><font color="olive">淡入画面</font>
+<font color="black">◆</font><font color="indigo">文章(S)：</font><font color="gray">速度 2</font>
+<font color="black">：</font><font color="white">文章(S)</font><font color="indigo">：</font><font color="navy">而其中最为强大的人类联盟</font>
+<font color="black">：</font><font color="white">文章(S)</font><font color="indigo">：</font><font color="navy">建立了自己的城堡</font>
+<font color="black">：</font><font color="white">文章(S)</font><font color="indigo">：</font><font color="navy">蒙达鲁克硫斯伯古比奇巴勒城</font>
+<font color="black">◆</font><font color="olive">淡出画面</font>
+<font color="black">◆</font><font color="teal">淡出BGM：2秒</font>
+<font color="black">◆</font><font color="teal">播放BGM：Dungeon1 (90, 100, 0)</font>
+<font color="black">◆</font><font color="deeppink">改变远景图：CloudySky2 </font><font color="gray">(横向循环)</font>
+<font color="black">◆</font><font color="olive">淡入画面</font>
+<font color="black">◆</font><font color="indigo">文章(S)：</font><font color="gray">速度 2</font>
+<font color="black">：</font><font color="white">文章(S)</font><font color="indigo">：</font><font color="navy">整个大陆看起来一片平静。。。</font>
+<font color="black">：</font><font color="white">文章(S)</font><font color="indigo">：</font><font color="navy">然而在大陆深处的黑暗森林</font>
+<font color="black">：</font><font color="white">文章(S)</font><font color="indigo">：</font><font color="navy">却时常传来混沌的低语。。。</font>
+<font color="black">◆</font><font color="olive">淡出画面</font>
+<font color="black">◆</font><font color="deeppink">改变远景图：DemonCastle</font>
+<font color="black">◆</font><font color="olive">淡入画面</font>
+<font color="black">◆</font><font color="indigo">文章(S)：</font><font color="gray">速度 2</font>
+<font color="black">：</font><font color="white">文章(S)</font><font color="indigo">：</font><font color="navy">森林深处的黑暗城堡，似乎有什么东西蠢蠢欲动。。。</font>
+<font color="black">◆</font><font color="teal">淡出BGM：2秒</font>
+<font color="black">◆</font><font color="teal">播放BGM：Dungeon2 (90, 100, 0)</font>
+<font color="black">◆</font><font color="olive">淡出画面</font>
+<font color="black">◆</font><font color="deeppink">改变远景图：Volcano</font>
+<font color="black">◆</font><font color="olive">淡入画面</font>
+<font color="black">◆</font><font color="indigo">文章(S)：</font><font color="gray">速度 2</font>
+<font color="black">：</font><font color="white">文章(S)</font><font color="indigo">：</font><font color="navy">终于有一天，一切的宁静都被瞬间打破。。。</font>
+<font color="black">◆</font><font color="olive">淡出画面</font>
+<font color="black">◆</font><font color="deeppink">改变远景图：World</font>
+<font color="black">◆</font><font color="olive">淡入画面</font>
+<font color="black">◆</font><font color="indigo">文章(S)：</font><font color="gray">速度 2</font>
+<font color="black">：</font><font color="white">文章(S)</font><font color="indigo">：</font><font color="navy">巨龙从森林深处跃起</font>
+<font color="black">：</font><font color="white">文章(S)</font><font color="indigo">：</font><font color="navy">万物都被它的威力所震慑</font>
+<font color="black">：</font><font color="white">文章(S)</font><font color="indigo">：</font><font color="navy">毫不留情地袭击了人类的城堡。。。</font>
+<font color="black">◆</font><font color="olive">淡出画面</font>
+<font color="black">◆</font><font color="deeppink">改变远景图：Dragon</font>
+<font color="black">◆</font><font color="olive">淡入画面</font>
+<font color="black">◆</font><font color="indigo">文章(S)：</font><font color="gray">速度 2</font>
+<font color="black">：</font><font color="white">文章(S)</font><font color="indigo">：</font><font color="navy">城堡的守护者与巨龙展开了殊死较量</font>
+<font color="black">：</font><font color="white">文章(S)</font><font color="indigo">：</font><font color="navy">以血肉之躯抵挡着巨龙的进攻</font>
+<font color="black">：</font><font color="white">文章(S)</font><font color="indigo">：</font><font color="navy">城堡内人民一片慌乱。。。</font>
+<font color="black">◆</font><font color="teal">淡出BGM：2秒</font>
+<font color="black">◆</font><font color="teal">播放BGM：Ship1 (90, 100, 0)</font>
+<font color="black">◆</font><font color="olive">淡出画面</font>
+<font color="black">◆</font><font color="deeppink">改变远景图：CloudySky2 </font><font color="gray">(横向循环)</font>
+<font color="black">◆</font><font color="olive">淡入画面</font>
+<font color="black">◆</font><font color="indigo">文章(S)：</font><font color="gray">速度 2</font>
+<font color="black">：</font><font color="white">文章(S)</font><font color="indigo">：</font><font color="navy">终于，人类以巨大的代价击退了巨龙</font>
+<font color="black">：</font><font color="white">文章(S)</font><font color="indigo">：</font><font color="navy">国王的禁卫军几近全灭</font>
+<font color="black">：</font><font color="white">文章(S)</font><font color="indigo">：</font><font color="navy">更大的不幸是，公主不见了踪影。。。</font>
+<font color="black">◆</font><font color="olive">淡出画面</font>
+<font color="black">◆</font><font color="deeppink">改变远景图：CloudySky1 </font><font color="gray">(横向循环)</font>
+<font color="black">◆</font><font color="olive">淡入画面</font>
+<font color="black">◆</font><font color="indigo">文章(S)：</font><font color="gray">速度 2</font>
+<font color="black">：</font><font color="white">文章(S)</font><font color="indigo">：</font><font color="navy">国王派人四处打听公主的下落</font>
+<font color="black">：</font><font color="white">文章(S)</font><font color="indigo">：</font><font color="navy">得知有些城外的精灵看到巨龙离开时掳走了公主</font>
+<font color="black">：</font><font color="white">文章(S)</font><font color="indigo">：</font><font color="navy">一想到自己得力的勇士几乎全部战死沙场</font>
+<font color="black">：</font><font color="white">文章(S)</font><font color="indigo">：</font><font color="navy">而自己的女儿生死未卜</font>
+<font color="black">：</font><font color="white">文章(S)</font><font color="indigo">：</font><font color="navy">国王终日以泪洗面，日渐消瘦。。。</font>
+<font color="black">◆</font><font color="teal">淡出BGM：3秒</font>
+<font color="black">◆</font><font color="olive">淡出画面</font>
+<font color="black">◆</font><font color="deeppink">改变远景图：Gates</font>
+<font color="black">◆</font><font color="olive">淡入画面</font>
+<font color="black">◆</font><font color="indigo">文章(S)：</font><font color="gray">速度 2</font>
+<font color="black">：</font><font color="white">文章(S)</font><font color="indigo">：</font><font color="navy">然而这一天，一位勇者来到了主堡大厅门前。。。</font>
+<font color="black">◆</font><font color="maroon">场所移动：MAP002 (8,12) </font><font color="gray">(方向: 上)</font></pre>
